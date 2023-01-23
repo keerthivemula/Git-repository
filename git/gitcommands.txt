@@ -4,3 +4,4 @@ git clean
 git clone
 git commit
 git branch -a
+git status
