@@ -1,0 +1,5 @@
+git branch
+git checkout
+git clean
+git clone
+git commit
